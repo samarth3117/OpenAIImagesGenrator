@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'OpenAIImageGenrator'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F147B80FE764DA08BEAD6CFC9CAF61D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6B5B9F56CE684CFD9A4E365F9BF9A7AA }}
           package: .
